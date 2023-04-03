@@ -1,0 +1,2 @@
+# ssr-gcp
+GCP practice
